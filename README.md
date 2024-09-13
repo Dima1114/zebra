@@ -22,7 +22,7 @@ In the interest of clarity, it must be added that each of the five houses is pai
 inhabitants are of different national extractions, own different pets, drink different beverages and smoke different
 brands of American cigarets. One other thing: in statement 6, right means your right.
 
-There 2 solver types:
+There are 2 solver types:
 
 - `AI`: accepts any input and solves the puzzle using a ai chatbot to solve.
 - `DUMMY`: accepts any input and provides hardcoded solution.
