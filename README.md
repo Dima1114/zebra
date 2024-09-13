@@ -29,7 +29,8 @@ There are 2 solver types:
 
 ## Usage
 
-```POST http://localhost:8080/zebra/solve
+```
+POST http://localhost:8080/zebra/solve
 Content-Type: application/json
 
 {
